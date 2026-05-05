@@ -7,8 +7,7 @@ Repositório criado para a Entrega Intermediária do Desafio de Portfólio.
 * 📄 **Documentação e Slides:** Apresentação de competências.
 
 ## 🔗 Links Oficiais
-* **Portfólio Oficial (Google Sites):** [https://sites.google.com/view/
-portifolioceub-victor-coura]
+* **Portfólio Oficial:** [https://sites.google.com/view/portifolioceub-victor-coura]
 * **Apresentação em Slides:** [(https://docs.google.com/presentation/d/1_OBXF-m2GldhavgU89ABJmNPiiwX5P-3gAKlFf1OHjc/edit?slide=id.gc6f80d1ff_0_0#slide=id.gc6f80d1ff_0_0)]
 * **Apresentação em Vídeo (Pitch):** []
 
