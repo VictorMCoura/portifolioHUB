@@ -1,0 +1,15 @@
+# 🖥️ BSB Compute (Sistemas Operacionais)
+
+Projeto acadêmico desenvolvido para a disciplina de Sistemas Operacionais, focado no entendimento profundo da interação entre software e hardware.
+
+## 💻 Sobre o Projeto
+O BSB Compute é uma aplicação que explora conceitos fundamentais de sistemas operacionais, como gerenciamento de processos, escalonamento e manipulação de recursos do sistema. O projeto demonstra a aplicação prática de algoritmos complexos para otimização de recursos computacionais e entendimento da camada de abstração do kernel.
+
+## 🛠️ Tecnologias e Conceitos Explorados
+* **Linguagem:** Python
+* **Conceitos de SO:** Gerenciamento de Memória, Chamadas de Sistema (System Calls) e Concorrência.
+* **Ambiente:** CLI.
+
+## 🔗 Código-Fonte
+Este repositório atua como uma vitrine de documentação. Para analisar o código-fonte, a lógica de implementação e o histórico de desenvolvimento, acesse o repositório original:
+👉 **[Acessar Repositório do Projeto BSB Compute](https://github.com/VictorMCoura/Projeto_SO_BSB_Compute)**
