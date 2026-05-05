@@ -1,0 +1,16 @@
+# 🥾 Trilhas Brasil
+
+Projeto acadêmico focado no desenvolvimento de uma plataforma interativa para catalogação de trilhas na região do cerrado brasileiro.
+
+## 💻 Sobre o Projeto
+O Trilhas Brasil foi construído com o objetivo de incentivar o turismo regional e facilitar o acesso a informações sobre rotas de caminhada. A plataforma conta com mapas interativos, sistema de avaliações, comentários de usuários e funcionalidade para upload de imagens.
+
+## 🛠️ Tecnologias Utilizadas
+* **Frontend:** Next.js, React
+* **Linguagem:** TypeScript
+* **Banco de Dados:** PostgreSQL
+* **Hospedagem/Deploy:** Vercel
+
+## 🔗 Código-Fonte
+Este repositório atua como um portfólio. Para visualizar o código-fonte completo, histórico de commits e a aplicação rodando, acesse o repositório oficial do projeto:
+👉 **[Acessar Repositório Original do Trilhas Brasil](TrilhasBrasil.vercel.app)**
