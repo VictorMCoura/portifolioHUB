@@ -1,6 +1,6 @@
 # PortfolioHUB
 
-Repositório criado para a Entrega Intermediária do Desafio de Portfólio.
+Repositório criado para funcionar como Portfólio Profissional.
 
 ## Seções do Repositório
 * 📁 **Projetos :** Arquivos e documentação de projetos criados.
@@ -9,7 +9,7 @@ Repositório criado para a Entrega Intermediária do Desafio de Portfólio.
 ## 🔗 Links Oficiais
 * **Portfólio Oficial:** https://sites.google.com/view/portifolioceub-victor-coura
 * **Apresentação em Slides:** https://docs.google.com/presentation/d/1_OBXF-m2GldhavgU89ABJmNPiiwX5P-3gAKlFf1OHjc/edit?slide=id.gc6f80d1ff_0_0#slide=id.gc6f80d1ff_0_0
-* **Apresentação em Vídeo (Pitch):** []
+* **Apresentação em Vídeo (Pitch):** https://youtu.be/XEswnHzKVcE
 
 ---
 Desenvolvido por Victor de Mesquita Coura.
